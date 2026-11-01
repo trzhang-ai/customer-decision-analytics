@@ -1,0 +1,7 @@
+,description
+choice_conjoint_tasks.csv,Choice-based conjoint tasks: each respondent faces 10 tasks with 3 alternatives; 'chosen' indicates selected option.
+candidate_bundles.csv,Four candidate subscription bundles for what-if comparisons and final recommendation.
+observational_offer_adoption.csv,"User-level observational dataset with covariates, offer_received (treatment), and upgrade/revenue outcomes."
+marketing_weekly_channels.csv,"Weekly time series with channel spends, installs, new_subscriptions, and revenue (for MMM)."
+survey_value_drivers.csv,Likert survey items for factor analysis (value drivers).
+bundle_similarity_matrix.csv,Optional similarity matrix for perceptual mapping (MDS) across candidate bundles.
