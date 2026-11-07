@@ -26,6 +26,6 @@ The analysis recommends a three-tier line-up led by a refined \$12 bundle, refin
 
 ## Explore the analysis
 
-The full analysis, including concept explanations for each method, is in [customer_decision_analytics.ipynb](customer_decision_analytics.ipynb). It opens with an executive summary and runs end to end from the data files in this repository.
+The full analysis, including concept explanations for each method, is in [customer_decision_analytics.ipynb](customer_decision_analytics.ipynb). It opens with an executive summary and runs end to end from the data files in this repository. To see the table values cited in the text highlighted in red, read it on [nbviewer](https://nbviewer.org/github/trzhang-ai/customer-decision-analytics/blob/main/customer_decision_analytics.ipynb).
 
 **Tools:** Python, pandas, statsmodels, scikit-learn, SciPy, matplotlib.
